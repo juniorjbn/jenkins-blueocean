@@ -21,7 +21,7 @@ blueocean-web:1.1.1
 bouncycastle-api:2.16.1
 branch-api:2.0.10
 cloudbees-folder:6.0.4
-codesonar:2.0.5 (cf87a)
+codesonar:2.0.5
 credentials:2.1.14
 credentials-binding:1.12
 display-url-api:2.0
